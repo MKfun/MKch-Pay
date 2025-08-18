@@ -1,8 +1,6 @@
-# Это пример settings.json! После редактирования этот комментарий - удалите.
 {
   "ADMINS": [
-    ID ПРОФИЛЯ АДМИНА,
   ],
-  "PASSCODE_MIN_PRICE": 50, # изменение минимальной цены товара
-  "AUTO_DELIVERY": true # автовыдача
+  "PASSCODE_MIN_PRICE": 50,
+  "AUTO_DELIVERY": true
 }
